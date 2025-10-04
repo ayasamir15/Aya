@@ -1,0 +1,5 @@
+{
+  "name": "Personal Portfolio CMS",
+  "description": "A fully editable personal portfolio website managed directly through a user-friendly browser interface. Features theme and color customization, content management for projects, biography, and contact information, all without needing to write any code.",
+  "requestFramePermissions": []
+}
